@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T06:37:49.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="kMFKlchEiIXvkqsYYROK" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T06:39:45.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="HEmQKCxyEEWK5Q-XKE_Y" version="24.0.2" type="github">
   <diagram name="Page-1" id="mF6GrfeL_8Cy2piwtOac">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -136,8 +136,8 @@
         <mxCell id="WzduZ1klrH_2z7SrxPBf-48" value="Old Laptop Running Debian with Docker" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="581.25" y="760.58" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WzduZ1klrH_2z7SrxPBf-49" value="Intel Core 2 Duo E7500&lt;br&gt;2+2 DDR2&lt;br&gt;128 SSD (boot)&lt;br&gt;2TB single&lt;br&gt;4tb+4tb mirror" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="970" width="150" height="90" as="geometry" />
+        <mxCell id="WzduZ1klrH_2z7SrxPBf-49" value="Intel Core 2 Duo E7500&lt;br&gt;2+2 DDR2&lt;br&gt;128 SSD (boot)&lt;div&gt;&lt;br&gt;for nas:&lt;br&gt;2TB single&lt;br&gt;4tb+4tb mirror&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="970" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WzduZ1klrH_2z7SrxPBf-50" value="(Intel Pentium B950 (Socketed)&lt;br&gt;2+4 DDR3&amp;nbsp;&lt;br&gt;120GB Boot)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="606.25" y="795" width="190" height="60" as="geometry" />
